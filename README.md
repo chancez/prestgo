@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/avct/prestgo.svg?branch=master)](https://travis-ci.org/avct/prestgo)
+
 # prestgo
 
 A pure [Go](http://golang.org/) database driver for the [Presto](http://prestodb.io/) query engine.
